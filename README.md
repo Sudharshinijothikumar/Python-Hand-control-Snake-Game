@@ -56,3 +56,4 @@ snake_game/
 Made with ❤️ using Python and Pygame.
 
 Let me know if you want a cuter, funnier, or theme-based version (e.g., Rainbow Snake, Anime Snake, Tamil Snake, etc.)!
+Have ur own eat and game over sounds and add in the same directory
